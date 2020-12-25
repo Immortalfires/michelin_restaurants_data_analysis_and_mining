@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/restaurant?characterEncoding=utf-8&serverTimezone=UTC&useSSL=false
+    username: root
+    password: xrw20010922
+    hikari:
+      max-lifetime: 40000
+  jpa:
+    show-sql: true
+    database: mysql
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL5Dialect
+    open-in-view: false
+  freemarker:
+    content-type: text/html
+    charset: UTF-8
+    suffix: .ftl
+    template-loader-path: classpath:/templates
+    cache: false
