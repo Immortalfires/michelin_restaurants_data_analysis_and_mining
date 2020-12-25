@@ -29,9 +29,9 @@
 
 3. 对数据的分析包括，对餐厅经纬度的聚类分析，以及餐厅不同星级数目的简单统计，对餐厅所处地区的统计分析。
 
-   ![img](file:///C:/Users/AUREVO~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+   [![rRN1IO.md.png](https://s3.ax1x.com/2020/12/25/rRN1IO.md.png)](https://imgchr.com/i/rRN1IO)
 
-   ![img](file:///C:/Users/Au%20revoir/AppData/Local/Microsoft/Windows/Clipboard/HistoryData/%7B01ECFFAA-F332-47E8-B02F-A0933C9F37EA%7D/%7B8F2311EE-8159-4FC3-97A5-98EB648B5670%7D/ResourceMap/%7B6B7DC998-FDAF-42CE-8BF8-B2B365D93216%7D)
+   [![rRNldK.md.png](https://s3.ax1x.com/2020/12/25/rRNldK.md.png)](https://imgchr.com/i/rRNldK)
 
 4. 用户登陆只简单验证了账号密码，未对权限做出控制。不过可以根据浏览器cookie判断的登录态，实现登陆后可以对数据进行增加和删除，退出后只能进行浏览和查询。
 
@@ -39,8 +39,8 @@
 
 1. 登录页
 
-   ![image-20201225100523887](C:\Users\Au revoir\AppData\Roaming\Typora\typora-user-images\image-20201225100523887.png)
+   [![rRNaLt.md.png](https://s3.ax1x.com/2020/12/25/rRNaLt.md.png)](https://imgchr.com/i/rRNaLt)
 
 2. 首页
 
-   ![image-20201225100544427](C:\Users\Au revoir\AppData\Roaming\Typora\typora-user-images\image-20201225100544427.png)
+   [![rRNweP.md.png](https://s3.ax1x.com/2020/12/25/rRNweP.md.png)](https://imgchr.com/i/rRNweP)
