@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/restaurant?characterEncoding=utf-8&serverTimezone=UTC&useSSL=false
     username: root
-    password: xrw20010922
+    password: root
     hikari:
       max-lifetime: 40000
   jpa:
